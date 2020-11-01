@@ -21,8 +21,11 @@ Research Projects
 * Accelerating subgraph query processing on a single machine.
 * Accelerating graph structural clustering algorithms on heterogeneous processors.
 
-Conference Papers
+Publications
 ======
+
+**Conference Papers**
+
 * **Shixuan Sun**, Xibo Sun, Yulin Che, Qiong Luo, Bingsheng He. "RapidMatch: A Holistic Approach to Subgraph Query Processing." International Conference on Very Large Data Bases (**VLDB**). 2021. [[PDF](/files/VLDB21-RapidMatch.pdf)][[Code](https://github.com/RapidsAtHKUST/RapidMatch)]
 
 * **Shixuan Sun**, Qiong Luo. "In-Memory Subgraph Matching: An In-depth Study." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2020. [[PDF](/files/SIGMOD20-Study.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphMatching)][[Slides](/files/SIGMOD20-Study-Slides.pdf)]
@@ -37,10 +40,10 @@ Conference Papers
 
 * Yulin Che, **Shixuan Sun**, and Qiong Luo. "Parallelizing Pruning-based Graph Structural Clustering." Proceedings of the 47th International Conference on Parallel Processing (**ICPP**). 2018. [[PDF](/files/ICPP18-ppScan.pdf)][[Code](https://github.com/RapidsAtHKUST/ppSCAN)][[Slides](/files/ICPP18-ppScan-Slides.pdf)]
 
-* **Shixuan Sun**, and Qiong Luo. "Parallelizing Recursive Backtracking Based Subgraph Matching on a Single Machine." 2018 IEEE 24th International Conference on Parallel and Distributed Systems (**ICPADS**). 2018.  [[PDF](/files/ICPADS18-PSM.pdf)][[Slides](/files/ICPADS18-PSM-Slides.pdf)]
+* **Shixuan Sun**, Qiong Luo. "Parallelizing Recursive Backtracking Based Subgraph Matching on a Single Machine." 2018 IEEE 24th International Conference on Parallel and Distributed Systems (**ICPADS**). 2018.  [[PDF](/files/ICPADS18-PSM.pdf)][[Slides](/files/ICPADS18-PSM-Slides.pdf)]
 
-Journal Papers
-======
+**Journal Papers**
+
 * **Shixuan Sun**, Qiong Luo. "Subgraph Matching with Effective Matching Order and Indexing." IEEE Transactions on Knowledge and Data Engineering (**TKDE**). 2020. [[PDF](/files/TKDE20-VC.pdf)]
 
 Professional Services
