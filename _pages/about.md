@@ -63,3 +63,5 @@ Honors & Awards
 * Outstanding Graduate of Shanghai 2011,2014
 * China National Scholarship 2009,2013
 * Google Excellent Student Scholarship 2010
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_R5Af3d1jiKPmFVsrq20iSKbYAWkN9-vhZccr98x6Ao&cl=ffffff&w=a"></script>
