@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Shixuan Sun"
+title                    : "Shixuan's Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Shixuan Sun"
 description              : &description "Research Fellow at National University of Singapore"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shixuan Sun"
-  avatar           : "profile.png"
+  avatar           : "shixuansun.jpg"
   bio              : "Research Fellow at School of Computing, National University of Singapore"
   location         : "Singapore"
   employer         :
