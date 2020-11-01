@@ -64,4 +64,6 @@ Honors & Awards
 * China National Scholarship 2009,2013
 * Google Excellent Student Scholarship 2010
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_R5Af3d1jiKPmFVsrq20iSKbYAWkN9-vhZccr98x6Ao&cl=ffffff&w=a"></script>
+<br/><br/>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=_R5Af3d1jiKPmFVsrq20iSKbYAWkN9-vhZccr98x6Ao&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
