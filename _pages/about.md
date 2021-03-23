@@ -26,6 +26,12 @@ Publications
 
 **Conference Papers**
 
+* **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021.
+
+* Shengliang Lu, **Shixuan Sun**, Johns Paul, Yuchen Li, Bingsheng He. "Cache-Efficient Fork-Processing Patterns on Large Graphs." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021.
+
+* Johan Kok, Gaurav, Sienyi Tan, Feng Cheng, **Shixuan Sun**, Bingsheng He. "Efficient Deep Learning Pipelines for Accurate Cost Estimation over Large Scale Analytics Workload." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Data Science and Engineering Track. 2021.
+
 * **Shixuan Sun**, Xibo Sun, Yulin Che, Qiong Luo, Bingsheng He. "RapidMatch: A Holistic Approach to Subgraph Query Processing." International Conference on Very Large Data Bases (**VLDB**). 2021. [[PDF](/files/VLDB21-RapidMatch.pdf)][[Code](https://github.com/RapidsAtHKUST/RapidMatch)]
 
 * **Shixuan Sun**, Qiong Luo. "In-Memory Subgraph Matching: An In-depth Study." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2020. [[PDF](/files/SIGMOD20-Study.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphMatching)][[Slides](/files/SIGMOD20-Study-Slides.pdf)]
