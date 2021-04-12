@@ -15,9 +15,14 @@ He received his Ph.D. in Computer Sciences from the Department of Computer Scien
 supervised by [Dr. Qiong Luo](http://www.cs.ust.hk/~luo/). Prior to that, he got his M.S and B.S. in Computer Sciences from the School of Software Engineering,
 Tongji University in 2014 and 2011 respectively. He worked as a Software Development Engineer at Microsoft (Shanghai) from 2014 to 2015.
 
+Contact
+======
+Email: sunsx AT comp DOT nus DOT edu DOT sg 
+
 Research Projects
 ======
 * Empowering effective fraud detection with graph-based approaches.
+* Accelerating concurrent graph query processing on heterogeneous processors.
 * Accelerating subgraph query processing on a single machine.
 * Accelerating graph structural clustering algorithms on heterogeneous processors.
 
@@ -26,11 +31,11 @@ Publications
 
 **Conference Papers**
 
-* **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021.
+* **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Report](https://arxiv.org/pdf/2103.11137.pdf)][[Code](https://github.com/Xtra-Computing/PathEnum)]]
 
-* Shengliang Lu, **Shixuan Sun**, Johns Paul, Yuchen Li, Bingsheng He. "Cache-Efficient Fork-Processing Patterns on Large Graphs." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021.
+* Shengliang Lu, **Shixuan Sun**, Johns Paul, Yuchen Li, Bingsheng He. "Cache-Efficient Fork-Processing Patterns on Large Graphs." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Report](https://arxiv.org/pdf/2103.14915.pdf)][[Code](https://github.com/Xtra-Computing/ForkGraph)]]
 
-* Johan Kok, Gaurav, Sienyi Tan, Feng Cheng, **Shixuan Sun**, Bingsheng He. "Efficient Deep Learning Pipelines for Accurate Cost Estimation over Large Scale Analytics Workload." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Data Science and Engineering Track. 2021.
+* Johan Kok, Gaurav, Sienyi Tan, Feng Cheng, **Shixuan Sun**, Bingsheng He. "Efficient Deep Learning Pipelines for Accurate Cost Estimation over Large Scale Analytics Workload." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Data Science and Engineering Track. 2021. [[Report](https://arxiv.org/pdf/2103.12465.pdf)]]
 
 * **Shixuan Sun**, Xibo Sun, Yulin Che, Qiong Luo, Bingsheng He. "RapidMatch: A Holistic Approach to Subgraph Query Processing." International Conference on Very Large Data Bases (**VLDB**). 2021. [[PDF](/files/VLDB21-RapidMatch.pdf)][[Code](https://github.com/RapidsAtHKUST/RapidMatch)]
 
