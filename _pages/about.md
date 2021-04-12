@@ -15,9 +15,9 @@ He received his Ph.D. in Computer Sciences from the Department of Computer Scien
 supervised by [Dr. Qiong Luo](http://www.cs.ust.hk/~luo/). Prior to that, he got his M.S and B.S. in Computer Sciences from the School of Software Engineering,
 Tongji University in 2014 and 2011 respectively. He worked as a Software Development Engineer at Microsoft (Shanghai) from 2014 to 2015.
 
-Contact
+<!-- Contact
 ======
-Email: sunsx AT comp DOT nus DOT edu DOT sg 
+Email: sunsx AT comp DOT nus DOT edu DOT sg -->
 
 Research Projects
 ======
