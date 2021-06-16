@@ -31,6 +31,8 @@ Publications
 
 **Conference Papers**
 
+* **Shixuan Sun**, Yuhang Chen, Shengliang Lu, Bingsheng He, Yuchen Li. "ThunderRW: An In-Memory Graph Random Walk Engine." International Conference on Very Large Data Bases (**VLDB**). 2021.
+
 * **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Report](https://arxiv.org/pdf/2103.11137.pdf)][[Code](https://github.com/Xtra-Computing/PathEnum)]
 
 * Shengliang Lu, **Shixuan Sun**, Johns Paul, Yuchen Li, Bingsheng He. "Cache-Efficient Fork-Processing Patterns on Large Graphs." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Report](https://arxiv.org/pdf/2103.14915.pdf)][[Code](https://github.com/Xtra-Computing/ForkGraph)]
