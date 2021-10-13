@@ -39,29 +39,29 @@ Publications
 
 * Johan Kok, Gaurav, Sienyi Tan, Feng Cheng, **Shixuan Sun**, Bingsheng He. "Efficient Deep Learning Pipelines for Accurate Cost Estimation over Large Scale Analytics Workload." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Data Science and Engineering Track. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457546)[Report](https://arxiv.org/pdf/2103.12465.pdf)][[Code](https://github.com/grab/grab-query-traces)]
 
-* **Shixuan Sun**, Xibo Sun, Yulin Che, Qiong Luo, Bingsheng He. "RapidMatch: A Holistic Approach to Subgraph Query Processing." International Conference on Very Large Data Bases (**VLDB**). 2021. [[PDF](/files/VLDB21-RapidMatch.pdf)][[Code](https://github.com/RapidsAtHKUST/RapidMatch)]
+* **Shixuan Sun**, Xibo Sun, Yulin Che, Qiong Luo, Bingsheng He. "RapidMatch: A Holistic Approach to Subgraph Query Processing." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](/files/VLDB21-RapidMatch.pdf)][[Code](https://github.com/RapidsAtHKUST/RapidMatch)]
 
-* **Shixuan Sun**, Qiong Luo. "In-Memory Subgraph Matching: An In-depth Study." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2020. [[PDF](/files/SIGMOD20-Study.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphMatching)][[Slides](/files/SIGMOD20-Study-Slides.pdf)]
+* **Shixuan Sun**, Qiong Luo. "In-Memory Subgraph Matching: An In-depth Study." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2020. [[Paper](/files/SIGMOD20-Study.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphMatching)][[Slides](/files/SIGMOD20-Study-Slides.pdf)]
 
-* Yulin Che, Zhuohang Lai, **Shixuan Sun**, Yue Wang, Qiong Luo. "Accelerating Truss Decomposition on Heterogeneous Processors." International Conference on Very Large Data Bases (**VLDB**).  2020. [[PDF](/files/VLDB20-AccTD.pdf)][[Code](https://github.com/RapidsAtHKUST/AccTrussDecomposition)]
+* Yulin Che, Zhuohang Lai, **Shixuan Sun**, Yue Wang, Qiong Luo. "Accelerating Truss Decomposition on Heterogeneous Processors." International Conference on Very Large Data Bases (**VLDB**).  2020. [[Paper](/files/VLDB20-AccTD.pdf)][[Code](https://github.com/RapidsAtHKUST/AccTrussDecomposition)]
 
-* **Shixuan Sun**, Yulin Che, Lipeng Wang, Qiong Luo. "Efficient Parallel Subgraph Enumeration on A Single Machine." 2019 IEEE 35th International Conference on Data Engineering (**ICDE**). 2019. [[PDF](/files/ICDE19-LIGHT.pdf)][[Code](https://github.com/RapidsAtHKUST/LIGHT)][[Slides](/files/ICDE19-LIGHT-Slides.pdf)]
+* **Shixuan Sun**, Yulin Che, Lipeng Wang, Qiong Luo. "Efficient Parallel Subgraph Enumeration on A Single Machine." 2019 IEEE 35th International Conference on Data Engineering (**ICDE**). 2019. [[Paper](/files/ICDE19-LIGHT.pdf)][[Code](https://github.com/RapidsAtHKUST/LIGHT)][[Slides](/files/ICDE19-LIGHT-Slides.pdf)]
 
-* **Shixuan Sun**, Qiong Luo. "Scaling Up Subgraph Query Processing with Efficient Subgraph Matching." 2019 IEEE 35th International Conference on Data Engineering (**ICDE**). 2019. [[PDF](/files/ICDE19-vcFV.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphContainment)][[Slides](/files/ICDE19-vcFV-Slides.pdf)]
+* **Shixuan Sun**, Qiong Luo. "Scaling Up Subgraph Query Processing with Efficient Subgraph Matching." 2019 IEEE 35th International Conference on Data Engineering (**ICDE**). 2019. [[Paper](/files/ICDE19-vcFV.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphContainment)][[Slides](/files/ICDE19-vcFV-Slides.pdf)]
 
-* Yulin Che, Zhuohang Lai, **Shixuan Sun**, Qiong Luo. "Accelerating All-Edge Common Neighbor Counting on Three Processors." Proceedings of the 48th International Conference on Parallel Processing (**ICPP**). 2019. [[PDF](/files/ICPP19-AccNC.pdf)][[Code](https://github.com/RapidsAtHKUST/AccTriCnt)][[Slides](/files/ICPP19-AccNC-Slides.pdf)]
+* Yulin Che, Zhuohang Lai, **Shixuan Sun**, Qiong Luo. "Accelerating All-Edge Common Neighbor Counting on Three Processors." Proceedings of the 48th International Conference on Parallel Processing (**ICPP**). 2019. [[Paper](/files/ICPP19-AccNC.pdf)][[Code](https://github.com/RapidsAtHKUST/AccTriCnt)][[Slides](/files/ICPP19-AccNC-Slides.pdf)]
 
-* Yulin Che, **Shixuan Sun**, and Qiong Luo. "Parallelizing Pruning-based Graph Structural Clustering." Proceedings of the 47th International Conference on Parallel Processing (**ICPP**). 2018. [[PDF](/files/ICPP18-ppScan.pdf)][[Code](https://github.com/RapidsAtHKUST/ppSCAN)][[Slides](/files/ICPP18-ppScan-Slides.pdf)]
+* Yulin Che, **Shixuan Sun**, and Qiong Luo. "Parallelizing Pruning-based Graph Structural Clustering." Proceedings of the 47th International Conference on Parallel Processing (**ICPP**). 2018. [[Paper](/files/ICPP18-ppScan.pdf)][[Code](https://github.com/RapidsAtHKUST/ppSCAN)][[Slides](/files/ICPP18-ppScan-Slides.pdf)]
 
-* **Shixuan Sun**, Qiong Luo. "Parallelizing Recursive Backtracking Based Subgraph Matching on a Single Machine." 2018 IEEE 24th International Conference on Parallel and Distributed Systems (**ICPADS**). 2018.  [[PDF](/files/ICPADS18-PSM.pdf)][[Slides](/files/ICPADS18-PSM-Slides.pdf)]
+* **Shixuan Sun**, Qiong Luo. "Parallelizing Recursive Backtracking Based Subgraph Matching on a Single Machine." 2018 IEEE 24th International Conference on Parallel and Distributed Systems (**ICPADS**). 2018.  [[Paper](/files/ICPADS18-PSM.pdf)][[Slides](/files/ICPADS18-PSM-Slides.pdf)]
 
 **Journal Papers**
 
-* **Shixuan Sun**, Qiong Luo. "Subgraph Matching with Effective Matching Order and Indexing." IEEE Transactions on Knowledge and Data Engineering (**TKDE**). 2020. [[PDF](/files/TKDE20-VC.pdf)]
+* **Shixuan Sun**, Qiong Luo. "Subgraph Matching with Effective Matching Order and Indexing." IEEE Transactions on Knowledge and Data Engineering (**TKDE**). 2020. [[Paper](/files/TKDE20-VC.pdf)]
 
 Professional Services
 ======
-* PC Member for [CCGrid 2021](http://cloudbus.org/ccgrid2021/)
+* PC Member for [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021](https://hipc.org/)
 * Reviewer for [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [TKDE](https://www.computer.org/csdl/journal/tk), [VLDBJ](https://vldb.org/vldb_journal/), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [DMKD](https://www.springer.com/journal/10618)
 
 Teaching Experiences
