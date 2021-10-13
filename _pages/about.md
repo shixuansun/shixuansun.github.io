@@ -31,13 +31,13 @@ Publications
 
 **Conference Papers**
 
-* **Shixuan Sun**, Yuhang Chen, Shengliang Lu, Bingsheng He, Yuchen Li. "ThunderRW: An In-Memory Graph Random Walk Engine." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](http://vldb.org/pvldb/vol14/p1992-sun.pdf)[Report](https://arxiv.org/abs/2107.11983)][[Code](https://github.com/Xtra-Computing/ThunderRW)]
+* **Shixuan Sun**, Yuhang Chen, Shengliang Lu, Bingsheng He, Yuchen Li. "ThunderRW: An In-Memory Graph Random Walk Engine." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](http://vldb.org/pvldb/vol14/p1992-sun.pdf)][[Report](https://arxiv.org/abs/2107.11983)][[Code](https://github.com/Xtra-Computing/ThunderRW)]
 
-* **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457290)[Report](https://arxiv.org/pdf/2103.11137.pdf)][[Code](https://github.com/Xtra-Computing/PathEnum)]
+* **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457290)][[Report](https://arxiv.org/pdf/2103.11137.pdf)][[Code](https://github.com/Xtra-Computing/PathEnum)]
 
-* Shengliang Lu, **Shixuan Sun**, Johns Paul, Yuchen Li, Bingsheng He. "Cache-Efficient Fork-Processing Patterns on Large Graphs." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457253)[Report](https://arxiv.org/pdf/2103.14915.pdf)][[Code](https://github.com/Xtra-Computing/ForkGraph)]
+* Shengliang Lu, **Shixuan Sun**, Johns Paul, Yuchen Li, Bingsheng He. "Cache-Efficient Fork-Processing Patterns on Large Graphs." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457253)][[Report](https://arxiv.org/pdf/2103.14915.pdf)][[Code](https://github.com/Xtra-Computing/ForkGraph)]
 
-* Johan Kok, Gaurav, Sienyi Tan, Feng Cheng, **Shixuan Sun**, Bingsheng He. "Efficient Deep Learning Pipelines for Accurate Cost Estimation over Large Scale Analytics Workload." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Data Science and Engineering Track. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457546)[Report](https://arxiv.org/pdf/2103.12465.pdf)][[Code](https://github.com/grab/grab-query-traces)]
+* Johan Kok, Gaurav, Sienyi Tan, Feng Cheng, **Shixuan Sun**, Bingsheng He. "Efficient Deep Learning Pipelines for Accurate Cost Estimation over Large Scale Analytics Workload." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Data Science and Engineering Track. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457546)][[Report](https://arxiv.org/pdf/2103.12465.pdf)][[Code](https://github.com/grab/grab-query-traces)]
 
 * **Shixuan Sun**, Xibo Sun, Yulin Che, Qiong Luo, Bingsheng He. "RapidMatch: A Holistic Approach to Subgraph Query Processing." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](/files/VLDB21-RapidMatch.pdf)][[Code](https://github.com/RapidsAtHKUST/RapidMatch)]
 
