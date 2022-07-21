@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Shixuan Sun is currently a Senior Research Fellow at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+Shixuan Sun is currently a Senior Research Fellow at the School of Computing, National University of Singapore, supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 His research interests are in database systems, graph algorithms, and parallel computing. Current focus is on acceleration for graph queries, and graph-based fraud detection.
 
 He received his Ph.D. in Computer Sciences from the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST) in 2020,
