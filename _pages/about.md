@@ -31,6 +31,10 @@ Publications
 
 **Conference Papers**
 
+* **Shixuan Sun**, Xibo Sun, Bingsheng He, Qiong Luo. "RapidFlow: An Efficient Approach to Continuous Subgraph Matching." International Conference on Very Large Data Bases (**VLDB**). 2022. [[Accepted]][[Code](https://github.com/shixuansun/RapidFlow)]
+
+* Xibo Sun, **Shixuan Sun^**, Qiong Luo, Bingsheng He. "An In-Depth Study of Continuous Subgraph Matching." International Conference on Very Large Data Bases (**VLDB**). 2022. [[Paper](https://www.vldb.org/pvldb/vol15/p1403-sun.pdf)][[Report](https://arxiv.org/abs/2203.06913)][[Code](https://github.com/RapidsAtHKUST/ContinuousSubgraphMatching)]
+
 * **Shixuan Sun**, Yuhang Chen, Shengliang Lu, Bingsheng He, Yuchen Li. "ThunderRW: An In-Memory Graph Random Walk Engine." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](http://vldb.org/pvldb/vol14/p1992-sun.pdf)][[Report](https://arxiv.org/abs/2107.11983)][[Code](https://github.com/Xtra-Computing/ThunderRW)]
 
 * **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457290)][[Report](https://arxiv.org/pdf/2103.11137.pdf)][[Code](https://github.com/Xtra-Computing/PathEnum)]
