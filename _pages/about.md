@@ -65,8 +65,8 @@ Publications
 
 Professional Services
 ======
-* PC Member for [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021](https://hipc.org/)
-* Reviewer for [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [TKDE](https://www.computer.org/csdl/journal/tk), [VLDBJ](https://vldb.org/vldb_journal/), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [DMKD](https://www.springer.com/journal/10618)
+* PC Member for [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022](https://hipc.org/)
+* Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur),    [DMKD](https://www.springer.com/journal/10618)
 
 Teaching Experiences
 ======
