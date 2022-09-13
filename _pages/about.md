@@ -31,7 +31,7 @@ Publications
 
 **Conference Papers**
 
-* **Shixuan Sun**, Xibo Sun, Bingsheng He, Qiong Luo. "RapidFlow: An Efficient Approach to Continuous Subgraph Matching." International Conference on Very Large Data Bases (**VLDB**). 2022. [[Accepted]][[Code](https://github.com/shixuansun/RapidFlow)]
+* **Shixuan Sun**, Xibo Sun, Bingsheng He, Qiong Luo. "RapidFlow: An Efficient Approach to Continuous Subgraph Matching." International Conference on Very Large Data Bases (**VLDB**). 2022. [[Paper](https://www.vldb.org/pvldb/vol15/p2415-sun.pdf)][[Report](/files/VLDB2022_RapidFlow_Report.pdf)][[Code](https://github.com/shixuansun/RapidFlow)]
 
 * Xibo Sun, **Shixuan Sun^**, Qiong Luo, Bingsheng He. "An In-Depth Study of Continuous Subgraph Matching." International Conference on Very Large Data Bases (**VLDB**). 2022. [[Paper](https://www.vldb.org/pvldb/vol15/p1403-sun.pdf)][[Report](https://arxiv.org/abs/2203.06913)][[Code](https://github.com/RapidsAtHKUST/ContinuousSubgraphMatching)]
 
@@ -65,8 +65,9 @@ Publications
 
 Professional Services
 ======
+* Web Chair for [APSys 2022](https://apsys2022.comp.nus.edu.sg/)
 * PC Member for [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022](https://hipc.org/)
-* Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur),    [DMKD](https://www.springer.com/journal/10618)
+* Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [DMKD](https://www.springer.com/journal/10618)
 
 Teaching Experiences
 ======
