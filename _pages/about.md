@@ -63,6 +63,7 @@ Publications
 
 * **Shixuan Sun**, Qiong Luo. "Subgraph Matching with Effective Matching Order and Indexing." IEEE Transactions on Knowledge and Data Engineering (**TKDE**). 2020. [[Paper](/files/TKDE20-VC.pdf)]
 
+
 Professional Services
 ======
 * Web Chair for [APSys 2022](https://apsys2022.comp.nus.edu.sg/)
@@ -71,6 +72,7 @@ Professional Services
 
 Teaching Experiences
 ======
+* Guest Lecturer, HKUST(GZ) DSAA6000D Graph Processing and Analytics, Accelerating Subgraph Query Processing on a Single Machine (2.5 hours tutorial in Sep 2022) [[Slides](/files/20220921_HKUSTGZ_SubgraphQueryProcessing.pdf)]
 * Teaching Assistant, HKUST COMP5311 Database Architecture and Implementation
 * Teaching Assistant, HKUST MSBD5009 Parallel Programming
 
