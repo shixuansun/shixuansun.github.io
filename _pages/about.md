@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**I am soon joining Shanghai Jiao Tong University as a Tenure-Track Associate Professor.**
+
 Shixuan Sun is currently a Senior Research Fellow at the School of Computing, National University of Singapore, supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 His research interests are in database systems, graph algorithms, and parallel computing. Current focus is on acceleration for graph queries, and graph-based fraud detection.
 
@@ -17,19 +19,23 @@ Tongji University in 2014 and 2011 respectively. He worked as a Software Develop
 
 Contact
 ======
-Email: [sunsx] AT [comp] DOT [nus] DOT [edu] DOT [sg]
+Email: [sun-sx] AT [cs] DOT [sjtu] DOT [edu] DOT [cn]
 
-Research Projects
+Open Positions
 ======
-* Empowering effective fraud detection with graph-based approaches.
-* Accelerating concurrent graph query processing on heterogeneous processors.
-* Accelerating subgraph query processing on a single machine.
-* Accelerating graph structural clustering algorithms on heterogeneous processors.
+I am looking for self-motivated PhD students, master students and research assistants. Please drop me an email with your CV if you are interested in high-performance and large-scale data processing including high-performance graph database management systems, graph computing frameworks, graph algorithms and parallel computing.
+
+本团队长期招收博士生、硕士生和研究助理。如果你对高性能大规模数据处理，包括高性能图数据库系统、图计算框架、图算法和并行计算，感兴趣，欢迎邮件联系我。
+**有意向申请2024年博士、硕士的同学请提前与我联系。同时，非常欢迎大二、大三对科研感兴趣的同学加入我们的科研项目。**
 
 Publications
 ======
 
-**Conference Papers**
+**Conferences**
+
+* Cheng Xu, Chao Li, Pengyu Wang, Xiaofeng Hou, Jing Wang, **Shixuan Sun**, Minyi Guo, Hanqing Wu, Dongbai Chen, Xiangwen Liu. "High-Throughput GPU Random Walk with Fine-tuned Concurrent Query Processing (Poster)." Principles and Practice of Parallel Programming (**PPoPP**). 2023. [[Poster](https://dl.acm.org/doi/abs/10.1145/3572848.3577482)]
+
+* Pu Pang, Gang Deng, Kaihao Bai, Quan Chen, **Shixuan Sun**, Bo Liu, Yu Xu, Hongbo Yao, Zhengheng Wang, Xiyu Wang, Zheng Liu, Zhuo Song, Yong Yang, Tao Ma, Minyi Guo. "Async-fork: Mitigating Query Latency Spikes Incurred by the Fork-based Snapshot Mechanism from the OS Level." International Conference on Very Large Data Bases (**VLDB**). 2023. [[Paper](https://dl.acm.org/doi/abs/10.14778/3579075.3579079)]
 
 * **Shixuan Sun**, Xibo Sun, Bingsheng He, Qiong Luo. "RapidFlow: An Efficient Approach to Continuous Subgraph Matching." International Conference on Very Large Data Bases (**VLDB**). 2022. [[Paper](https://www.vldb.org/pvldb/vol15/p2415-sun.pdf)][[Report](/files/VLDB2022_RapidFlow_Report.pdf)][[Code](https://github.com/shixuansun/RapidFlow)]
 
@@ -59,7 +65,7 @@ Publications
 
 * **Shixuan Sun**, Qiong Luo. "Parallelizing Recursive Backtracking Based Subgraph Matching on a Single Machine." 2018 IEEE 24th International Conference on Parallel and Distributed Systems (**ICPADS**). 2018.  [[Paper](/files/ICPADS18-PSM.pdf)][[Slides](/files/ICPADS18-PSM-Slides.pdf)]
 
-**Journal Papers**
+**Journals**
 
 * **Shixuan Sun**, Qiong Luo. "Subgraph Matching with Effective Matching Order and Indexing." IEEE Transactions on Knowledge and Data Engineering (**TKDE**). 2020. [[Paper](/files/TKDE20-VC.pdf)]
 
@@ -67,7 +73,7 @@ Publications
 Professional Services
 ======
 * Web Chair for [APSys 2022](https://apsys2022.comp.nus.edu.sg/)
-* PC Member for [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022](https://hipc.org/)
+* PC Member for [ICDE 2024](https://icde2024.github.io/index.html), [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
 * Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [DMKD](https://www.springer.com/journal/10618)
 
 Teaching Experiences
@@ -78,6 +84,8 @@ Teaching Experiences
 
 Honors & Awards
 ======
+* 国家级青年人才计划入选者 2022
+* 上海市青年人才计划入选者 2021 
 * The Championship of Alibaba POLARDB High Performance Competition (1/1808) [[News](https://www.cse.ust.hk/News/POLARDB2018/)][[Code](https://github.com/RapidsAtHKUST/EngineRaceRapids)][[Slides](/files/2019-POLARDB.pdf)]
 * Hong Kong PhD Fellowship Award 2015-2019
 * Outstanding Graduate of Shanghai 2011,2014
