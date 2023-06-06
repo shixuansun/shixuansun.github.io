@@ -73,7 +73,7 @@ Publications
 Professional Services
 ======
 * Web Chair for [APSys 2022](https://apsys2022.comp.nus.edu.sg/)
-* PC Member for [ICDE 2024](https://icde2024.github.io/index.html), [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
+* PC Member for [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
 * Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [DMKD](https://www.springer.com/journal/10618)
 
 Teaching Experiences
