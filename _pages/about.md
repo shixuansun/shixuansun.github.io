@@ -25,7 +25,7 @@ Open Positions
 ======
 I am looking for self-motivated PhD students, master students and research assistants. Please drop me an email with your CV if you are interested in high-performance and large-scale data processing including high-performance graph database management systems, graph computing frameworks, graph algorithms and parallel computing.
 
-本团队长期招收博士生、硕士生和研究助理。如果你对高性能大规模数据处理，包括高性能图数据库系统、图计算框架、图算法和并行计算，感兴趣，欢迎邮件联系我。
+本团队长期招收博士生、硕士生和研究助理。如果你对高性能大规模数据处理(包括高性能图数据库系统、图计算框架、图算法和并行计算)感兴趣，欢迎邮件联系我。
 **有意向申请2024年博士、硕士的同学请提前与我联系。同时，非常欢迎大二、大三对科研感兴趣的同学加入我们的科研项目。**
 
 Publications
