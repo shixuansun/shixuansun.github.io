@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am soon joining Shanghai Jiao Tong University as a Tenure-Track Associate Professor.**
+**As a Tenure-Track Associate Professor, I am soon joining the Department of Computer Science and Engineering and the [EPCC Lab](http://epcc.sjtu.edu.cn/), Shanghai Jiao Tong University.**
 
 Shixuan Sun is currently a Senior Research Fellow at the School of Computing, National University of Singapore, supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 His research interests are in database systems, graph algorithms, and parallel computing. Current focus is on acceleration for graph queries, and graph-based fraud detection.
