@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shixuan's Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Shixuan Sun"
-description              : &description "Senior Research Fellow at National University of Singapore"
+description              : &description "Tenure-Track Associate Professor, Shanghai Jiao Tong University"
 url                      : https://shixuansun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shixuansun.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shixuan Sun  \n孙 世 轩"
   avatar           : "shixuansun.jpg"
-  bio              : "Senior Research Fellow at School of Computing, National University of Singapore"
-  location         : "Singapore"
+  bio              : "Tenure-Track Associate Professor, Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jCAwFlgAAAAJ&hl=en"
-  email            :  "sunsx AT comp DOT nus DOT edu DOT sg"
+  email            :  "sun-sx AT cs DOT sjtu DOT edu DOT cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
