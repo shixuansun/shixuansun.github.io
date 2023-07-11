@@ -16,7 +16,7 @@ Tongji University in 2014 and 2011 respectively. From 2020 to 2023, he worked as
 
 Contact
 ======
-Email: [sun-sx] AT [cs] DOT [sjtu] DOT [edu] DOT [cn]
+Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 
 Open Positions
 ======
