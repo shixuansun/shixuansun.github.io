@@ -25,6 +25,8 @@ I am looking for self-motivated PhD students, master students and research assis
 本团队长期招收博士生、硕士生和研究助理。如果你对高性能大规模数据处理(包括高性能图数据库系统、图计算框架、图算法和并行计算)感兴趣，欢迎邮件联系我。
 **有意向申请2024年博士、硕士的同学请提前与我联系。同时，非常欢迎大二、大三对科研感兴趣的同学加入我们的科研项目。**
 
+**New Positions! 基于异构硬件的高性能图数据处理项目招募研究助理，独立负责研究任务，欢迎大二、大三对科研感兴趣的同学加入！**
+
 Publications
 ======
 
@@ -70,7 +72,7 @@ Publications
 Professional Services
 ======
 * Web Chair for [APSys 2022](https://apsys2022.comp.nus.edu.sg/)
-* PC Member for [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
+* PC Member for [ICDE 2024](https://icde2024.github.io/), [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-call-for-papers.html), [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
 * Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [DMKD](https://www.springer.com/journal/10618)
 
 Teaching Experiences
@@ -81,6 +83,7 @@ Teaching Experiences
 
 Honors & Awards
 ======
+* 上海交通大学EXPLORE-X基金 2023
 * 国家级青年人才计划入选者 2022
 * 上海市青年人才计划入选者 2021 
 * The Championship of Alibaba POLARDB High Performance Competition (1/1808) [[News](https://www.cse.ust.hk/News/POLARDB2018/)][[Code](https://github.com/RapidsAtHKUST/EngineRaceRapids)][[Slides](/files/2019-POLARDB.pdf)]
