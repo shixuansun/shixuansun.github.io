@@ -32,6 +32,8 @@ Publications
 
 **Conferences**
 
+* Yushi Liu, **Shixuan Sun**, Zijun Li, Quan Chen, Sen Gao, Chao Li, Bingsheng He, Minyi Guo. "FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing." ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2024. [To Appear]
+
 * Cheng Xu, Chao Li, Pengyu Wang, Xiaofeng Hou, Jing Wang, **Shixuan Sun**, Minyi Guo, Hanqing Wu, Dongbai Chen, Xiangwen Liu. "High-Throughput GPU Random Walk with Fine-tuned Concurrent Query Processing (Poster)." Principles and Practice of Parallel Programming (**PPoPP**). 2023. [[Poster](https://dl.acm.org/doi/abs/10.1145/3572848.3577482)]
 
 * Pu Pang, Gang Deng, Kaihao Bai, Quan Chen, **Shixuan Sun**, Bo Liu, Yu Xu, Hongbo Yao, Zhengheng Wang, Xiyu Wang, Zheng Liu, Zhuo Song, Yong Yang, Tao Ma, Minyi Guo. "Async-fork: Mitigating Query Latency Spikes Incurred by the Fork-based Snapshot Mechanism from the OS Level." International Conference on Very Large Data Bases (**VLDB**). 2023. [[Paper](https://dl.acm.org/doi/abs/10.14778/3579075.3579079)]
