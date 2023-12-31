@@ -23,16 +23,29 @@ Open Positions
 I am looking for self-motivated PhD students, master students and research assistants. Please drop me an email with your CV if you are interested in high-performance and large-scale data processing including high-performance graph database management systems, graph computing frameworks, graph algorithms and parallel computing.
 
 本团队长期招收博士生、硕士生和研究助理。如果你对高性能大规模数据处理(包括高性能图数据库系统、图计算框架、图算法和并行计算)感兴趣，欢迎邮件联系我。
-**有意向申请2024年博士、硕士的同学请提前与我联系。同时，非常欢迎大二、大三对科研感兴趣的同学加入我们的科研项目。**
+**有意向申请2025年博士、硕士的同学请提前与我联系。同时，非常欢迎大二、大三对科研感兴趣的同学加入我们的科研项目。**
 
-**New Positions! 基于异构硬件的高性能图数据处理项目招募研究助理，独立负责研究任务，欢迎大二、大三对科研感兴趣的同学加入！**
+Students
+======
+
+I am very fortunate to work with the talented and dedicated students.
+
+* Yushi Liu (Master Student, Primarily supervised by Prof. Quan Chen, Start collaboration from Nov 2021), Shanghai Jiao Tong University (Bachelor, 2018-2022)
+* Jixian Su (Research Assistant, Start collaboration from May 2023), Shanghai Jiao Tong University (Undergraduate, 2020 - present)
+* Chiyu Hao (Research Assistant, Start collaboration from Sep 2023), Shanghai Jiao Tong University (Undergraduate, 2021 - present)
+* Weitian Chen (Incoming 2024 PhD Student), Nanjing University (Bachelor, 2020 - 2024)
+* Hongyu Chen (Incoming 2024 PhD Student), NUDT (Master, 2021 - 2024), Nanjing University (Bachelor, 2017 - 2021)
+* Qianyu Wang (Incoming 2024 Master Student), Nanjing University (Bachelor, 2020 - 2024)
+
 
 Publications
 ======
 
 **Conferences**
 
-<!-- * Yushi Liu, **Shixuan Sun**, Zijun Li, Quan Chen, Sen Gao, Chao Li, Bingsheng He, Minyi Guo. "FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing." ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2024. [To Appear] -->
+* Chang Ye, Yuchen Li, **Shixuan Sun**, Wentian Guo. "gSWORD: GPU-accelerated Sampling for Subgraph Counting." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2024. [To Appear]
+
+* Yushi Liu, **Shixuan Sun**, Zijun Li, Quan Chen, Sen Gao, Chao Li, Bingsheng He, Minyi Guo. "FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing." ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2024. [To Appear]
 
 * Cheng Xu, Chao Li, Pengyu Wang, Xiaofeng Hou, Jing Wang, **Shixuan Sun**, Minyi Guo, Hanqing Wu, Dongbai Chen, Xiangwen Liu. "High-Throughput GPU Random Walk with Fine-tuned Concurrent Query Processing (Poster)." Principles and Practice of Parallel Programming (**PPoPP**). 2023. [[Poster](https://dl.acm.org/doi/abs/10.1145/3572848.3577482)]
 
