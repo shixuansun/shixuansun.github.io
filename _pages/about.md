@@ -22,8 +22,36 @@ Open Positions
 ======
 I am looking for self-motivated PhD students, master students and research assistants. Please drop me an email with your CV if you are interested in high-performance and large-scale data processing including high-performance graph database management systems, graph computing frameworks, graph algorithms and parallel computing.
 
-本团队长期招收博士生、硕士生和研究助理。如果你对高性能大规模数据处理(包括高性能图数据库系统、图计算框架、图算法和并行计算)感兴趣，欢迎邮件联系我。
-**有意向申请2025年博士、硕士的同学请提前与我联系。同时，非常欢迎大二、大三对科研感兴趣的同学加入我们的科研项目。**
+
+大家新年好，本课题组有三个新研究项目招收RA/实习生。每个项目都有well-defined problem，学生将有机会独立负责研究工作，每周和导师及校外导师至少进行一次一对一指导，目标是将研究成果发表在相关领域顶级会议。感兴趣的同学请发送CV和成绩单到我的邮箱，并注明选择的项目。
+
+### 基于GPU的高性能图计算算子研究
+
+基于GPU设计并开发高效的图计算基础算子（Primitive Operators），解决非结构化数据处理对异构硬件资源的低效利用问题。技能要求：
+
+- 具有扎实的算法设计、数据结构、操作系统基础
+- 具有并行编程基础，有CUDA编程经验优先
+
+### 高性能图计算加速器研究
+
+设计高效的图计算加速器（Accelerator），解决复杂图计算任务对算力的巨大需求。技能需求：
+
+- 具有扎实的算法设计、体系结构基础
+- 具有良好的C/C++编程能力
+
+### 大语言模型 + 图数据处理研究
+
+探索ChatGPT等大语言模型（LLM）在图数据处理与分析中的应用。技能需求：
+
+- 具有良好的系统设计、数据结构基础
+- 具有良好的Python、C++编程能力
+
+### 其他要求：
+
+- 良好的英语阅读、写作基础
+- 熟练使用Linux系统，热爱编程、系统开发、性能调优
+- 项目周期为1年左右，有保研深造意向同学优先
+- 有足够的时间精力投入
 
 Students
 ======
