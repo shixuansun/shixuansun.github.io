@@ -23,53 +23,25 @@ Open Positions
 I am looking for self-motivated PhD students, master students and research assistants. Please drop me an email with your CV if you are interested in high-performance and large-scale data processing including high-performance graph database management systems, graph computing frameworks, graph algorithms and parallel computing.
 
 
-大家新年好，本课题组有三个新研究项目招收RA/实习生。每个项目都有well-defined problem，学生将有机会独立负责研究工作，每周和导师及校外导师至少进行一次一对一指导，目标是将研究成果发表在相关领域顶级会议。感兴趣的同学请发送CV和成绩单到我的邮箱，并注明选择的项目。
-
-### 基于GPU的高性能图计算算子研究
-
-基于GPU设计并开发高效的图计算基础算子（Primitive Operators），解决非结构化数据处理对异构硬件资源的低效利用问题。技能要求：
-
-- 具有扎实的算法设计、数据结构、操作系统基础
-- 具有并行编程基础，有CUDA编程经验优先
-
-### 高性能图计算加速器研究
-
-设计高效的图计算加速器（Accelerator），解决复杂图计算任务对算力的巨大需求。技能需求：
-
-- 具有扎实的算法设计、体系结构基础
-- 具有良好的C/C++编程能力
-
-### 大语言模型 + 图数据处理研究
-
-探索ChatGPT等大语言模型（LLM）在图数据处理与分析中的应用。技能需求：
-
-- 具有良好的系统设计、数据结构基础
-- 具有良好的Python、C++编程能力
-
-### 其他要求：
-
-- 良好的英语阅读、写作基础
-- 熟练使用Linux系统，热爱编程、系统开发、性能调优
-- 项目周期为1年左右，有保研深造意向同学优先
-- 有足够的时间精力投入
-
 Students
 ======
 
 I am very fortunate to work with the talented and dedicated students.
 
-* Yushi Liu (Master Student, Primarily supervised by Prof. Quan Chen, Start collaboration from Nov 2021), Shanghai Jiao Tong University (Bachelor, 2018-2022)
-* Jixian Su (Research Assistant, Start collaboration from May 2023), Shanghai Jiao Tong University (Undergraduate, 2020 - present)
-* Chiyu Hao (Research Assistant, Start collaboration from Sep 2023), Shanghai Jiao Tong University (Undergraduate, 2021 - present)
-* Weitian Chen (Incoming 2024 PhD Student), Nanjing University (Bachelor, 2020 - 2024)
-* Hongyu Chen (Incoming 2024 PhD Student), NUDT (Master, 2021 - 2024), Nanjing University (Bachelor, 2017 - 2021)
-* Qianyu Wang (Incoming 2024 Master Student), Nanjing University (Bachelor, 2020 - 2024)
+* Yushi Liu (Master Student, Primarily supervised by Prof. Quan Chen), Start from 2022
+* Jixian Su (Research Assistant), Start from 2023
+* Chiyu Hao (Research Assistant), Start from 2023
+* Weitian Chen (PhD Student), Start from 2024
+* Hongyu Chen (PhD Student), Start from 2024
+* Qianyu Wang (Master Student), Start from 2024
 
 
 Publications
 ======
 
 **Conferences**
+
+* Siyuan Yao, Yuchen Li, **Shixuan Sun**, Jiaxin Jiang, Bingsheng He. "uBlade: Efficient Batch Processing for Uncertainty Graph Queries." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2024. [To Appear]
 
 * Chang Ye, Yuchen Li, **Shixuan Sun**, Wentian Guo. "gSWORD: GPU-accelerated Sampling for Subgraph Counting." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2024. [To Appear]
 
@@ -115,20 +87,19 @@ Publications
 Professional Services
 ======
 * Web Chair for [APSys 2022](https://apsys2022.comp.nus.edu.sg/)
-* PC Member for [ICDE 2024](https://icde2024.github.io/), [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-call-for-papers.html), [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
+* PC Member for [VLDB 2025](https://vldb.org/2025/), [ICDE 2024](https://icde2024.github.io/), [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-call-for-papers.html), [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
 * Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [DMKD](https://www.springer.com/journal/10618)
 
 Teaching Experiences
 ======
+* Lecturer, Shanghai Jiao Tong University CS2310 Operating System
 * Guest Lecturer, HKUST(GZ) DSAA6000D Graph Processing and Analytics, Accelerating Subgraph Query Processing on a Single Machine (2.5 hours tutorial in Sep 2022) [[Slides](/files/20220921_HKUSTGZ_SubgraphQueryProcessing.pdf)]
 * Teaching Assistant, HKUST COMP5311 Database Architecture and Implementation
 * Teaching Assistant, HKUST MSBD5009 Parallel Programming
 
 Honors & Awards
 ======
-* 上海交通大学EXPLORE-X基金 2023
-* 国家级青年人才计划入选者 2022
-* 上海市青年人才计划入选者 2021 
+
 * The Championship of Alibaba POLARDB High Performance Competition (1/1808) [[News](https://www.cse.ust.hk/News/POLARDB2018/)][[Code](https://github.com/RapidsAtHKUST/EngineRaceRapids)][[Slides](/files/2019-POLARDB.pdf)]
 * Hong Kong PhD Fellowship Award 2015-2019
 * Outstanding Graduate of Shanghai 2011,2014
