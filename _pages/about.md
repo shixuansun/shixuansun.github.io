@@ -41,11 +41,13 @@ Publications
 
 **Conferences**
 
+* Junyi Mei, **Shixuan Sun^**, Chao Li^, Cheng Xu, Cheng Chen, Yibo Liu, Jing Wang, Cheng Zhao, Xiaofeng Hou, Minyi Guo, Bingsheng He, Xiaoliang Cong. "FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework." International Conference on Very Large Data Bases (**VLDB**). 2024. [To Appear]
+
 * Siyuan Yao, Yuchen Li, **Shixuan Sun**, Jiaxin Jiang, Bingsheng He. "uBlade: Efficient Batch Processing for Uncertainty Graph Queries." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2024. [To Appear]
 
 * Chang Ye, Yuchen Li, **Shixuan Sun**, Wentian Guo. "gSWORD: GPU-accelerated Sampling for Subgraph Counting." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2024. [To Appear]
 
-* Yushi Liu, **Shixuan Sun**, Zijun Li, Quan Chen, Sen Gao, Chao Li, Bingsheng He, Minyi Guo. "FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing." ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2024. [To Appear]
+* Yushi Liu#, **Shixuan Sun#**, Zijun Li, Quan Chen, Sen Gao, Chao Li, Bingsheng He, Minyi Guo. "FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing." ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2024. [To Appear]
 
 * Cheng Xu, Chao Li, Pengyu Wang, Xiaofeng Hou, Jing Wang, **Shixuan Sun**, Minyi Guo, Hanqing Wu, Dongbai Chen, Xiangwen Liu. "High-Throughput GPU Random Walk with Fine-tuned Concurrent Query Processing (Poster)." Principles and Practice of Parallel Programming (**PPoPP**). 2023. [[Poster](https://dl.acm.org/doi/abs/10.1145/3572848.3577482)]
 
