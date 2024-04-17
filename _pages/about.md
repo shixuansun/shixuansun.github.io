@@ -41,7 +41,7 @@ Publications
 
 **Conferences**
 
-<!-- * Junyi Mei, **Shixuan Sun^**, Chao Li^, Cheng Xu, Cheng Chen, Yibo Liu, Jing Wang, Cheng Zhao, Xiaofeng Hou, Minyi Guo, Bingsheng He, Xiaoliang Cong. "FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework." International Conference on Very Large Data Bases (**VLDB**). 2024. [To Appear] -->
+* Junyi Mei, **Shixuan Sun^**, Chao Li^, Cheng Xu, Cheng Chen, Yibo Liu, Jing Wang, Cheng Zhao, Xiaofeng Hou, Minyi Guo, Bingsheng He, Xiaoliang Cong. "FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework." International Conference on Very Large Data Bases (**VLDB**). 2024. [To Appear]
 
 * Siyuan Yao, Yuchen Li, **Shixuan Sun**, Jiaxin Jiang, Bingsheng He. "uBlade: Efficient Batch Processing for Uncertainty Graph Queries." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2024. [To Appear]
 
