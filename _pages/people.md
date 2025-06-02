@@ -115,8 +115,9 @@ I am very fortunate to work with the talented and dedicated students.
   <img src="/images/yushi liu.png" style="width: 100px; border-radius: 50%;"><br>
   <a href="https://ziliuziliu.github.io/">Yushi Liu</a><br>
   <div>Master Student (2022~2025)</div>
-  <div>Master Thesis: Serverless Computing Systems for Large-Scale Graph Data Processing</div>
   <div>First Stop: Tencent</div>
+  <small>Master Thesis: Serverless Computing Systems for Large-Scale Graph Data Processing</small>
+  
 </div>
 
 <!-- Jixian Su -->
@@ -124,8 +125,9 @@ I am very fortunate to work with the talented and dedicated students.
   <img src="/images/jixian su.png" style="width: 100px; border-radius: 50%;"><br>
   Jixian Su<br>
   <div>Research Assistant (2023~2025)</div>
-  <div>Bachelor Thesis: Design and Development of A Dynamic Graph Storage Evaluation Framework Supporting HTAP</div>
   <div>First Stop: Georgia Institute of Technology</div>
+  <small>Bachelor Thesis: Design and Development of A Dynamic Graph Storage Evaluation Framework Supporting HTAP</small>
+  
 </div>
 
 <!-- Chiyu Hao -->
@@ -133,8 +135,9 @@ I am very fortunate to work with the talented and dedicated students.
   <img src="/images/chiyu hao.png" style="width: 100px; border-radius: 50%;"><br>
   Chiyu Hao<br>
   <div>Research Assistant (2023~2025)</div>
-  <div>Bachelor Thesis: Research on High-Performance Dynamic Graph Data Storage System</div>
   <div>First Stop: University of Michigan</div>
+  <small>Bachelor Thesis: Research on High-Performance Dynamic Graph Data Storage System</small>
+ 
 </div>
 
 </div>
