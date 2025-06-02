@@ -17,7 +17,7 @@ I am very fortunate to work with the talented and dedicated students.
   Sen Gao<br>
   <div>PhD Student</div>
   <div>Since 2023</div>
-  <small>Co-supervised by Prof. Bingsheng He<small>
+  <small>Co-supervised by Prof. Bingsheng He</small>
 </div>
 
 <!-- Weitian Chen -->
