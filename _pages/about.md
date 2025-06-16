@@ -21,10 +21,11 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
+* \[2025.6\]: *RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to **VLDB'25**. Congratulations to Mr. Chiyu Hao and Ms. Jixian Su.
 * \[2025.6\]: Congratulations to Mr. Chiyu Hao on receiving the **Outstanding Bachelor Thesis Award** from the School of Computer Science, awarded to the top 1% of theses.
 * \[2025.5\]: Honored to receive the **Outstanding PC Award at ICDE 2025**.
-* \[2025.2\]: *GES: High-Performance Graph Processing Engine and Service in Huawei* was accepted to **SIGMOD'25**.
-* \[2024.11\]: *Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to **SIGMOD'25**.
+* \[2025.2\]: *GES: High-Performance Graph Processing Engine and Service in Huawei* was accepted to **SIGMOD'25**. Congratulations to Mr. Sen Gao.
+* \[2024.11\]: *Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to **SIGMOD'25**. Congratulations to Ms. Jixian Su and Mr. Chiyu Hao.
 
 
 Open Positions

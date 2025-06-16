@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 **Conferences**
+
+* Chiyu Hao, Jixian Su, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo. “RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries.” International Conference on Very Large Data Bases (**VLDB**). 2025.
+
 * Jixian Su, Chiyu Hao, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jiaxin Jiang, Yao Chen, Chenyi Zhang, Bingsheng He, Minyi Guo. “Revisiting the Design of In-Memory Dynamic Graph Storage.” ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2025. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3709720)[[Code]](https://github.com/SJTU-Liquid/DynamicGraphStorage)
 
 * Sen Gao, Jianwen Zhao, Hao Zhang^, **Shixuan Sun^**, Chen Liang, Gongye Chen, Wenliang Zhang, Bo Ren, Chao Liu, Chengyi Zhang, Quan Chen, Chao Li, Jingwen Leng, Minyi Guo. "GES: High-Performance Graph Processing Engine and Service in Huawei.” ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2025. [To appear]
