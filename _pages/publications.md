@@ -7,6 +7,9 @@ author_profile: true
 
 **Conferences**
 
+* Huanqi Hu, Bowen Xiao, **Shixuan Sun^**, Jianing Yin, Zhexi Zhang, Xiang Luo, Chengquan Jiang, Weiqi Xu, Xiaoying Jia, Xin Liu, Minyi Guo. “LiquidGEMM: Hardware-Efficient W4A8 GEMM for High-Performance LLM Serving.” The International Conference for High Performance
+Computing, Networking, Storage, and Analysis (**SC**). 2025.
+
 * Chiyu Hao, Jixian Su, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo. “RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries.” International Conference on Very Large Data Bases (**VLDB**). 2025.
 
 * Jixian Su, Chiyu Hao, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jiaxin Jiang, Yao Chen, Chenyi Zhang, Bingsheng He, Minyi Guo. “Revisiting the Design of In-Memory Dynamic Graph Storage.” ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2025. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3709720)[[Code]](https://github.com/SJTU-Liquid/DynamicGraphStorage)

@@ -21,6 +21,7 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
+* \[2025.6\]: *LiquidGEMM: Hardware-Efficient W4A8 GEMM for High Performance LLM Serving* was accepted to **SC'25**. Congratulations to Mr. Huanqi Hu.
 * \[2025.6\]: *RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to **VLDB'25**. Congratulations to Mr. Chiyu Hao and Ms. Jixian Su.
 * \[2025.6\]: Congratulations to Mr. Chiyu Hao on receiving the **Outstanding Bachelor Thesis Award** from the School of Computer Science, awarded to the top 1% of theses.
 * \[2025.5\]: Honored to receive the **Outstanding PC Award at ICDE 2025**.
