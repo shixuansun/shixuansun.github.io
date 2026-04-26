@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Shixuan Sun is currently a Tenure-Track Associate Professor at the Department of Computer Science and Engineering, Shanghai Jiao Tong University. He is also a member of the [EPCC Lab](http://epcc.sjtu.edu.cn/). His research interests are in parallel and distributed computing, database systems, machine learning and data-intensive applications.
+Shixuan Sun is currently a Tenure-Track Associate Professor at the Department of Computer Science and Engineering, Shanghai Jiao Tong University. He is also a member of the [EPCC Lab](http://epcc.sjtu.edu.cn/). His research interests are in parallel and distributed computing, machine learning and data-intensive applications.
 
 He received his Ph.D. in Computer Sciences from the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST) in 2020,
 supervised by [Prof. Qiong Luo](http://www.cs.ust.hk/~luo/). Prior to that, he got his M.S and B.S. in Computer Sciences from the School of Software Engineering,
@@ -21,24 +21,26 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
-* \[2025.6\]: *LiquidGEMM: Hardware-Efficient W4A8 GEMM for High Performance LLM Serving* was accepted to **SC'25**. Congratulations to Mr. Huanqi Hu.
-* \[2025.6\]: *RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to **VLDB'25**. Congratulations to Mr. Chiyu Hao and Ms. Jixian Su.
-* \[2025.6\]: Congratulations to Mr. Chiyu Hao on receiving the **Outstanding Bachelor Thesis Award** from the School of Computer Science, awarded to the top 1% of theses.
-* \[2025.5\]: Honored to receive the **Outstanding PC Award at ICDE 2025**.
-* \[2025.2\]: *GES: High-Performance Graph Processing Engine and Service in Huawei* was accepted to **SIGMOD'25**. Congratulations to Mr. Sen Gao.
-* \[2024.11\]: *Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to **SIGMOD'25**. Congratulations to Ms. Jixian Su and Mr. Chiyu Hao.
+* [2026.4]: *InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models* was released on **arXiv**. It is a scalable and efficient disaggregated LoRA serving system developed by Mr. Hongyu Chen and Mr. Letian Ruan. Thanks to our collaborator from ByteDance.
+
+* [2026.3]: *gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs* was accepted to **VLDB 2026**. Congratulations to Mr. Weitian Chen. Thanks to our collaborator from ByteDance.
+
+* [2026.2]: *FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services* was accepted to **SIGMOD 2026**. Congratulations to Mr. Yushi Liu, Mr. Yikang Ruan, and Mr. Letian Ruan. Thanks to our collaborator from China Telecom.
+
+* [2026.1]: *DASH: Deterministic Attention Scheduling for High-Throughput Reproducible LLM Training* was accepted to **ICLR 2026**. Congratulations to Mr. Xinwei Qiang. Thanks to our collaborator from ByteDance.
+
+* [2025.12]: We ranked **No. 1** worldwide in the Graph Database Performance Contest on the LDBC-SNB benchmark. Congratulations to Mr. Sen Gao. Thanks to Huawei for their strong support.
 
 
 Open Positions
 ======
-I’m looking for self-motivated PhD students, master’s students, and research assistants to join my group. If you’re interested in building high-performance, large-scale data processing and machine learning systems through algorithm-system co-design on modern hardware, please email me your CV. We currently have openings in the following research areas: 1. Large-scale data processing systems on emerging computing architectures, including serverless and disaggregated environments on data centers. 2. Efficient and effective retrieval-augmented generation (RAG) techniques, such as GraphRAG and vector databases. 3. High-performance LLM inference system deployment on cloud and edge platforms. 4. Accelerating Zero-Knowledge Proof systems with heterogeneous computing.
-
+I’m looking for self-motivated PhD students, master’s students, and research assistants to join my group. If you’re interested in building high-performance, large-scale machine learning and data processing systems through algorithm-system co-design on modern hardware, please email me your CV.
 
 
 Professional Services
 ======
 * Web Chair for [APSys 2022](https://apsys2022.comp.nus.edu.sg/)
-* PC Member for [EuroSys 2026](https://2026.eurosys.org/), [ICDE 2026](https://icde2026.github.io/), [SC 2025](https://sc25.supercomputing.org/), [VLDB 2025](https://vldb.org/2025/), [ICDE 2024](https://icde2024.github.io/), [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-call-for-papers.html), [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
+* PC Member for [VLDB 2027](https://vldb.org/2027/), [ICDE 2027](https://icde2027.github.io/), [EuroSys 2026](https://2026.eurosys.org/), [ICDE 2026](https://icde2026.github.io/), [SC 2025](https://sc25.supercomputing.org/), [VLDB 2025](https://vldb.org/2025/), [ICDE 2024](https://icde2024.github.io/), [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-call-for-papers.html), [EDBT 2023](http://edbticdt2023.cs.uoi.gr/), [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021, 2022, 2023](https://hipc.org/)
 * Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [DMKD](https://www.springer.com/journal/10618)
 
 

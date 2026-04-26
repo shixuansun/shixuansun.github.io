@@ -9,135 +9,46 @@ I am very fortunate to work with the talented and dedicated students.
 ---
 ## Current Students
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+* Sen Gao, PhD student, from Beijing Institute of Technology, since 2023. Research direction: High-performance graph database systems. Co-supervised by Prof. Bingsheng He.
 
-<!-- Sen Gao -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/yushi liu.png" style="width: 100px; border-radius: 50%;"><br>
-  Sen Gao<br>
-  <div>PhD Student</div>
-  <div>Since 2023</div>
-  <small>Co-supervised by Prof. Bingsheng He</small>
-</div>
+* Weitian Chen, PhD student, from Nanjing University, since 2024. Research direction: agentic infrastructure on emerging hardware.
 
-<!-- Weitian Chen -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/weitian chen.png" style="width: 100px; border-radius: 50%;"><br>
-  Weitian Chen<br>
-  <div>PhD Student</div>
-  <div>since 2024</div>
-</div>
+* Hongyu Chen, PhD student, from National University of Defense Technology, since 2024. Research direction: large-scale LLM training and serving systems.
 
-<!-- Hongyu Chen -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/hongyu chen.png" style="width: 100px; border-radius: 50%;"><br>
-  Hongyu Chen<br>
-  <div>PhD Student</div>
-  <div>since 2024</div>
-</div>
+* Xiyu Wang, master's student, from Nanjing University, since 2024. Research direction: KV cache management.
 
-<!-- Xiyu Wang -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/xiyu wang.png" style="width: 100px; border-radius: 50%;"><br>
-  Xiyu Wang<br>
-  <div>Master Student</div>
-  <div>since 2024</div>
-</div>
+* Shengzhou Lv, PhD student, from Central South University, since 2025. Research direction: AI-empowered data analytics and processing. Co-supervised by Prof. Minyi Guo.
 
-<!-- Letian Ruan -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/letian ruan.png" style="width: 100px; border-radius: 50%;"><br>
-  Letian Ruan<br>
-  <div>Research Assistant</div>
-  <div>since 2024</div>
-</div>
+* Huanqi Hu, master's student, from Harbin Institute of Technology, since 2025. Research direction: high-performance GPU kernel design for LLM inference.
 
-<!-- Yikang Ruan -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/yikang ruan.png" style="width: 100px; border-radius: 50%;"><br>
-  Yikang Ruan<br>
-  <div>Research Assistant</div>
-  <div>since 2024</div>
-</div>
+* Yifan Hu, master's student (Huawei Class), from Beijing Jiaotong University, since 2025. Research direction: diffusion model serving acceleration.
 
-<!-- Liukun Yu -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/liukun yu.png" style="width: 100px; border-radius: 50%;"><br>
-  Liukun Yu<br>
-  <div>Research Assistant</div>
-  <div>since 2024</div>
-  <small>Co-supervised by Prof. Jingwen Leng</small>
-</div>
+* Yiyu Luo, PhD student, from Shanghai Jiao Tong University, since 2026. Research direction: agentic infrastructure on emerging hardware.
 
-<!-- Xinwei Qiang -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/xinwei qiang.png" style="width: 100px; border-radius: 50%;"><br>
-  Xinwei Qiang<br>
-  <div>Research Assistant</div>
-  <div>since 2024</div>
-  <small>Co-supervised by Prof. Jingwen Leng</small>
-</div>
+* Liukun Yu, PhD student, from Shanghai Jiao Tong University, since 2026. Research direction: privacy computing. Co-supervised by Prof. Jingwen Leng.
 
-<!-- Shengzhou Lv -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/shengzhou lv.png" style="width: 100px; border-radius: 50%;"><br>
-  Shengzhou Lv<br>
-  <div>PhD Student</div>
-  <div>since 2025</div>
-  <small>Co-supervised by Prof. Minyi Guo</small>
-</div>
+* Yikang Ruan, master's student, from Shanghai Jiao Tong University, since 2026. Research direction: high-performance GPU kernel design for LLM inference.
 
-<!-- Huanqi Hu -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/huanqi hu.png" style="width: 100px; border-radius: 50%;"><br>
-  Huanqi Hu<br>
-  <div>Master Student</div>
-  <div>since 2025</div>
-</div>
+* Yongan Li, research assistant, from IEEE Class, since 2026.
 
-<!-- Ziyu He -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/ziyu he.png" style="width: 100px; border-radius: 50%;"><br>
-  Ziyu He<br>
-  <div>Research Assistant</div>
-  <div>since 2025</div>
-</div>
-
-</div>
----
+* Shi Zhuo, research assistant, from John Class, since 2026.
 
 ## Alumni
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+* Yushi Liu, Master's student (2022–2025). Master's thesis: Serverless Computing Systems for Large-Scale Graph Data Processing. First stop: Tencent.
 
-<!-- Yushi Liu -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/yushi liu.png" style="width: 100px; border-radius: 50%;"><br>
-  <a href="https://ziliuziliu.github.io/">Yushi Liu</a><br>
-  <div>Master (2022~2025)</div>
-  <div>First Stop: Tencent</div>
-  <small>Master Thesis: Serverless Computing Systems for Large-Scale Graph Data Processing</small>
-  
-</div>
+* Jixian Su, research assistant (2023–2025). Bachelor's thesis: Design and Development of a Dynamic Graph Storage Evaluation Framework Supporting HTAP. First stop: PhD at Georgia Institute of Technology.
 
-<!-- Jixian Su -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/jixian su.png" style="width: 100px; border-radius: 50%;"><br>
-  Jixian Su<br>
-  <div>RA (2023~2025)</div>
-  <div>First Stop: Georgia Institute of Technology</div>
-  <small>Bachelor Thesis: Design and Development of A Dynamic Graph Storage Evaluation Framework Supporting HTAP</small>
-  
-</div>
+* Chiyu Hao, research assistant (2023–2025). Bachelor's thesis: Research on High-Performance Dynamic Graph Data Storage Systems. First stop: MPhil at Hong Kong University of Science and Technology.
 
-<!-- Chiyu Hao -->
-<div style="text-align: center; width: 150px;">
-  <img src="/images/chiyu hao.png" style="width: 100px; border-radius: 50%;"><br>
-  Chiyu Hao<br>
-  <div>RA (2023~2025)</div>
-  <div>First Stop: University of Michigan</div>
-  <small>Bachelor Thesis: Research on High-Performance Dynamic Graph Data Storage System</small>
- 
-</div>
+* Yiyu Luo, research assistant (2025–2026). Bachelor's thesis: Efficient Sparse Attention Computing. First stop: PhD at Shanghai Jiao Tong University.
 
-</div>
+* Liukun Yu, research assistant (2024–2026). Bachelor's thesis: GPU-Accelerated Zero-Knowledge Proof Systems. First stop: PhD at Shanghai Jiao Tong University.
+
+* Xinwei Qiang, research assistant (2024–2026). Bachelor's thesis: Efficient Diffusion Model Serving System. First stop: PhD at University of California San Diego.
+
+* Yikang Ruan, research assistant (2024–2026). Bachelor's thesis: High-Performance Graph Data Processing on Disaggregated Architectures. First stop: Master's student at Shanghai Jiao Tong University.
+
+* Letian Ruan, research assistant (2024–2025). Project: Disaggregated LoRA Serving System. First stop: dual degree program at University of Michigan.
+
+* Ziyu He, research assistant (2024–2025). Project: Graph-Powered Blockchain Analysis.
