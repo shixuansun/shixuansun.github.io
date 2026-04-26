@@ -21,15 +21,15 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
-* [2026.4]: *InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models* was released on **arXiv**. It is a scalable and efficient disaggregated LoRA serving system developed by Mr. Hongyu Chen and Mr. Letian Ruan. Thanks to our collaborator from ByteDance.
+* 2026.4: *InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models* was released on **arXiv**. It is a scalable and efficient disaggregated LoRA serving system developed by Mr. Hongyu Chen and Mr. Letian Ruan. Thanks to our collaborator from ByteDance.
 
-* [2026.3]: *gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs* was accepted to **VLDB 2026**. Congratulations to Mr. Weitian Chen. Thanks to our collaborator from ByteDance.
+* 2026.3: *gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs* was accepted to **VLDB 2026**. Congratulations to Mr. Weitian Chen. Thanks to our collaborator from ByteDance.
 
-* [2026.2]: *FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services* was accepted to **SIGMOD 2026**. Congratulations to Mr. Yushi Liu, Mr. Yikang Ruan, and Mr. Letian Ruan. Thanks to our collaborator from China Telecom.
+* 2026.2: *FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services* was accepted to **SIGMOD 2026**. Congratulations to Mr. Yushi Liu, Mr. Yikang Ruan, and Mr. Letian Ruan. Thanks to our collaborator from China Telecom.
 
-* [2026.1]: *DASH: Deterministic Attention Scheduling for High-Throughput Reproducible LLM Training* was accepted to **ICLR 2026**. Congratulations to Mr. Xinwei Qiang. Thanks to our collaborator from ByteDance.
+* 2026.1: *DASH: Deterministic Attention Scheduling for High-Throughput Reproducible LLM Training* was accepted to **ICLR 2026**. Congratulations to Mr. Xinwei Qiang. Thanks to our collaborator from ByteDance.
 
-* [2025.12]: We ranked **No. 1** worldwide in the Graph Database Performance Contest on the LDBC-SNB benchmark. Congratulations to Mr. Sen Gao. Thanks to Huawei for their strong support.
+* 2025.12: We ranked **No. 1** worldwide in the Graph Database Performance Contest on the LDBC-SNB benchmark. Congratulations to Mr. Sen Gao. Thanks to Huawei for their strong support.
 
 
 Open Positions
