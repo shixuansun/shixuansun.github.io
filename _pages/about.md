@@ -21,6 +21,10 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
+* 2026.6: Congratulations to Mr. Xinwei Qiang on receiving the **Outstanding Bachelor’s Thesis Award of Shanghai Jiao Tong University**, selected from more than 4,000 undergraduate students! Congratulations to Mr. Yikang Ruan on receiving the **Outstanding Bachelor’s Thesis Award of the School of Computer Science**, awarded to the top 3% of undergraduate students!
+
+* 2026.6: *GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving* was released on **arXiv**. An asynchronous execution runtime for DiT serving with support for dynamic parallelism, developed by Mr. Xinwei Qiang and Mr. Yifan Hu.
+
 * 2026.4: *InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models* was released on **arXiv**. It is a scalable and efficient disaggregated LoRA serving system developed by Mr. Hongyu Chen and Mr. Letian Ruan. Thanks to our collaborator from ByteDance.
 
 * 2026.3: *gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs* was accepted to **VLDB 2026**. Congratulations to Mr. Weitian Chen. Thanks to our collaborator from ByteDance.
