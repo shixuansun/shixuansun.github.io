@@ -7,7 +7,7 @@ author_profile: true
 
 **Conferences**
 
-* Xinwei Qiang*, Liukun Yu*, Xiyu Wang, Zhengyi Li, **Shixuan Sun^**, Jingwen Leng, Chen Chen, Jiaping Gui, Zhenzhe Zheng, Jin Dong, Minyi Guo. "FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration." The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2026.
+* Xinwei Qiang#, Liukun Yu#, Xiyu Wang, Zhengyi Li, **Shixuan Sun^**, Jingwen Leng, Chen Chen, Jiaping Gui, Zhenzhe Zheng, Jin Dong, Minyi Guo. "FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration." The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2026.
 
 * Xinwei Qiang, Yifan Hu, **Shixuan Sun^**, Jing Yang, Han Zhao, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. “GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving.” arXiv preprint arXiv:2606.13501. 2026.
 
