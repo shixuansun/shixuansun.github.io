@@ -35,8 +35,6 @@ News
 
 * 2026.1: *DASH: Deterministic Attention Scheduling for High-Throughput Reproducible LLM Training* was accepted to **ICLR 2026**. Congratulations to Mr. Xinwei Qiang. Thanks to our collaborator from ByteDance.
 
-* 2025.12: We ranked **No. 1** worldwide in the Graph Database Performance Contest on the LDBC-SNB benchmark. Congratulations to Mr. Sen Gao. Thanks to Huawei for their strong support.
-
 
 Open Positions
 ======

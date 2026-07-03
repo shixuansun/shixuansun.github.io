@@ -9,23 +9,23 @@ author_profile: true
 
 * Xinwei Qiang#, Liukun Yu#, Xiyu Wang, Zhengyi Li, **Shixuan Sun^**, Jingwen Leng, Chen Chen, Jiaping Gui, Zhenzhe Zheng, Jin Dong, Minyi Guo. "FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration." The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2026.
 
-* Xinwei Qiang, Yifan Hu, **Shixuan Sun^**, Jing Yang, Han Zhao, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. “GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving.” arXiv preprint arXiv:2606.13501. 2026.
+* Xinwei Qiang, Yifan Hu, **Shixuan Sun^**, Jing Yang, Han Zhao, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. "GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving." arXiv preprint arXiv:2606.13501. 2026.
 
-* Hongyu Chen, Letian Ruan, Zilin Xu, Yuchen Li, Xinyu Chen, Jingwen Leng, Bingsheng He, Jieru Zhao, **Shixuan Sun^**, Minyi Guo. “InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models.” arXiv preprint arXiv:2604.07173. 2026.
+* Hongyu Chen, Letian Ruan, Zilin Xu, Yuchen Li, Xinyu Chen, Jingwen Leng, Bingsheng He, Jieru Zhao, **Shixuan Sun^**, Minyi Guo. "InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models." arXiv preprint arXiv:2604.07173. 2026.
 
-* Weitian Chen, **Shixuan Sun^**, Cheng Chen, Yongmin Hu, Yingqian Hu, Minyi Guo. “gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs.” International Conference on Very Large Data Bases (**VLDB**). 2026.
+* Weitian Chen, **Shixuan Sun^**, Cheng Chen, Yongmin Hu, Yingqian Hu, Minyi Guo. "gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs." International Conference on Very Large Data Bases (**VLDB**). 2026.
 
-* Xinwei Qiang, Hongmin Chen, **Shixuan Sun^**, Jingwen Leng, Xin Liu, Minyi Guo. “DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training.” International Conference on Learning Representations (**ICLR**). 2026.
+* Xinwei Qiang, Hongmin Chen, **Shixuan Sun^**, Jingwen Leng, Xin Liu, Minyi Guo. "DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training." International Conference on Learning Representations (**ICLR**). 2026.
 
-* Yushi Liu, Yikang Ruan, Letian Ruan, Zijun Li, Sen Gao, Weihao Cui, **Shixuan Sun^**, Quan Chen, Shuo Quan, Jie Wu, Bingsheng He, Minyi Guo. “FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services.” ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2026.
+* Yushi Liu, Yikang Ruan, Letian Ruan, Zijun Li, Sen Gao, Weihao Cui, **Shixuan Sun^**, Quan Chen, Shuo Quan, Jie Wu, Bingsheng He, Minyi Guo. "FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2026.
 
-* Bingqiao Luo, Yuhang Chen, Yuheng Cong, Ziyu He, Jiaxin Jiang, **Shixuan Sun**, Bingsheng He, Wee Howe Ang. “ORDER: Optimal Routing with Path Indexing in Exchange Graph.” ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2026.
+* Bingqiao Luo, Yuhang Chen, Yuheng Cong, Ziyu He, Jiaxin Jiang, **Shixuan Sun**, Bingsheng He, Wee Howe Ang. "ORDER: Optimal Routing with Path Indexing in Exchange Graph." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2026.
 
-* Huanqi Hu, Bowen Xiao, **Shixuan Sun^**, Jianing Yin, Zhexi Zhang, Xiang Luo, Chengquan Jiang, Weiqi Xu, Xiaoying Jia, Xin Liu, Minyi Guo. “LiquidGEMM: Hardware-Efficient W4A8 GEMM for High-Performance LLM Serving.” The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2025.
+* Huanqi Hu, Bowen Xiao, **Shixuan Sun^**, Jianing Yin, Zhexi Zhang, Xiang Luo, Chengquan Jiang, Weiqi Xu, Xiaoying Jia, Xin Liu, Minyi Guo. "LiquidGEMM: Hardware-Efficient W4A8 GEMM for High-Performance LLM Serving." The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2025.
 
-* Chiyu Hao, Jixian Su, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo. “RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries.” International Conference on Very Large Data Bases (**VLDB**). 2025.
+* Chiyu Hao, Jixian Su, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo. "RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries." International Conference on Very Large Data Bases (**VLDB**). 2025.
 
-* Jixian Su, Chiyu Hao, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jiaxin Jiang, Yao Chen, Chenyi Zhang, Bingsheng He, Minyi Guo. “Revisiting the Design of In-Memory Dynamic Graph Storage.” ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2025. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3709720)[[Code]](https://github.com/SJTU-Liquid/DynamicGraphStorage)
+* Jixian Su, Chiyu Hao, **Shixuan Sun^**, Hao Zhang, Sen Gao, Jiaxin Jiang, Yao Chen, Chenyi Zhang, Bingsheng He, Minyi Guo. "Revisiting the Design of In-Memory Dynamic Graph Storage." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2025. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3709720)[[Code]](https://github.com/SJTU-Liquid/DynamicGraphStorage)
 
 * Sen Gao, Jianwen Zhao, Hao Zhang^, **Shixuan Sun^**, Chen Liang, Gongye Chen, Wenliang Zhang, Bo Ren, Chao Liu, Chengyi Zhang, Quan Chen, Chao Li, Jingwen Leng, Minyi Guo. "GES: High-Performance Graph Processing Engine and Service in Huawei.” ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2025. [To appear]
 
