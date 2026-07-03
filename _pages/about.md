@@ -21,6 +21,8 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
+* 2026.7: *FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration* was accepted to **SC 2026**. This is our first work on efficient privacy-preserving computing. Congratulations to Mr. Xinwei Qiang, Mr. Liukun Yu and Ms. Qianyu Wang!
+
 * 2026.6: Congratulations to Mr. Xinwei Qiang on receiving the **Outstanding Bachelor’s Thesis Award of Shanghai Jiao Tong University**, selected from more than 4,000 undergraduate students! Congratulations to Mr. Yikang Ruan on receiving the **Outstanding Bachelor’s Thesis Award of the School of Computer Science**, awarded to the top 3% of undergraduate students!
 
 * 2026.6: *GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving* was released on **arXiv**. An asynchronous execution runtime for DiT serving with support for dynamic parallelism, developed by Mr. Xinwei Qiang and Mr. Yifan Hu.
@@ -38,7 +40,7 @@ News
 
 Open Positions
 ======
-I’m looking for self-motivated PhD students, master’s students, and research assistants to join my group. If you’re interested in building high-performance, large-scale machine learning and data processing systems through algorithm-system co-design on modern hardware, please email me your CV.
+I’m looking for self-motivated PhD students, master’s students, and research assistants to join my group. If you’re interested in building high-performance, large-scale machine learning, data processing and privacy-preserving systems through algorithm-system co-design on modern hardware, please email me your CV.
 
 
 Professional Services
