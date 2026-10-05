@@ -17,7 +17,7 @@ I am very fortunate to work with the talented and dedicated students.
 
 * Xiyu Wang, master's student, from Nanjing University, since 2024.
 
-* Shengzhou Lv, PhD student, from Central South University, since 2025.
+* Shengzhou Lv, PhD student, from Central South University, since 2025. Co-supervised by Prof. Minyi Guo.
 
 * Huanqi Hu, master's student, from Harbin Institute of Technology, since 2025.
 
