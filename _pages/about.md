@@ -21,19 +21,19 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
+* I am very honored to be selected as **ACM SIGMOD China Rising Star Award**!
+
+* 2026.9: *FastTGM: Efficient Seed-Rooted Temporal Motif Counting with Compressed States* was accepted to **SIGMOD 2027**. In this paper, we develop an efficient pattern-matching system for fraud detection. Congratulations to Mr. Sen Gao and Mr. Weitian Chen! Thanks to our collaborator from ByteDance.
+
+* 2026.9: *InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models* was accepted to **ATC 2026**.It is a scalable and efficient disaggregated LoRA serving system designed for multi-tenant environments. Congratulations to Mr. Hongyu Chen and Mr. Letian Ruan!  Thanks to our collaborator from ByteDance.
+
+* 2026.9: *Impeller: Scalable and Efficient Zero-Knowledge Proof Computation Framework via Graph Compilation* was accepted to **ASPLOS 2027**. In this paper, we build an efficient compiler to accelerate ZK proof generation. Congratulations to Mr. Liukun Yu and Mr. Xinwei Qiang!
+
 * 2026.7: *FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration* was accepted to **SC 2026**. This is our first work on efficient privacy-preserving computing. Congratulations to Mr. Xinwei Qiang, Mr. Liukun Yu and Ms. Qianyu Wang!
 
 * 2026.6: Congratulations to Mr. Xinwei Qiang on receiving the **Outstanding Bachelor’s Thesis Award of Shanghai Jiao Tong University**, selected from more than 4,000 undergraduate students! Congratulations to Mr. Yikang Ruan on receiving the **Outstanding Bachelor’s Thesis Award of the School of Computer Science**, awarded to the top 3% of undergraduate students!
 
 * 2026.6: *GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving* was released on **arXiv**. An asynchronous execution runtime for DiT serving with support for dynamic parallelism, developed by Mr. Xinwei Qiang and Mr. Yifan Hu.
-
-* 2026.4: *InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models* was released on **arXiv**. It is a scalable and efficient disaggregated LoRA serving system developed by Mr. Hongyu Chen and Mr. Letian Ruan. Thanks to our collaborator from ByteDance.
-
-* 2026.3: *gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs* was accepted to **VLDB 2026**. Congratulations to Mr. Weitian Chen. Thanks to our collaborator from ByteDance.
-
-* 2026.2: *FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services* was accepted to **SIGMOD 2026**. Congratulations to Mr. Yushi Liu, Mr. Yikang Ruan, and Mr. Letian Ruan. Thanks to our collaborator from China Telecom.
-
-* 2026.1: *DASH: Deterministic Attention Scheduling for High-Throughput Reproducible LLM Training* was accepted to **ICLR 2026**. Congratulations to Mr. Xinwei Qiang. Thanks to our collaborator from ByteDance.
 
 
 Open Positions
@@ -48,8 +48,6 @@ Professional Services
 * Invited Reviewer for [TODS](https://dl.acm.org/journal/tods), [VLDBJ](https://vldb.org/vldb_journal/), [TKDE](https://www.computer.org/csdl/journal/tk), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [DMKD](https://www.springer.com/journal/10618)
 
 
-
-
 Teaching Experiences
 ======
 * Lecturer, Shanghai Jiao Tong University CS1501 Programming Concepts and Methods (C++)
@@ -61,12 +59,11 @@ Teaching Experiences
 
 Honors & Awards
 ======
+* ACM SIGMOD China Rising Star Award 2026
+* LDBC SNB Interactive Benchmark World Champion Award 2026
 * Outstanding PC Award at ICDE 2025
 * The Championship of Alibaba POLARDB High Performance Competition (1/1808) [[News](https://www.cse.ust.hk/News/POLARDB2018/)][[Code](https://github.com/RapidsAtHKUST/EngineRaceRapids)][[Slides](/files/2019-POLARDB.pdf)]
 * Hong Kong PhD Fellowship Award 2015-2019
-* Outstanding Graduate of Shanghai 2011,2014
-* China National Scholarship 2009,2013
-* Google Excellent Student Scholarship 2010
 
 <br/><br/>
 

@@ -7,11 +7,15 @@ author_profile: true
 
 **Conferences**
 
-* Xinwei Qiang#, Liukun Yu#, Xiyu Wang, Zhengyi Li, **Shixuan Sun^**, Jingwen Leng, Chen Chen, Jiaping Gui, Zhenzhe Zheng, Jin Dong, Minyi Guo. "FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration." The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2026.
+* Sen Gao, Yongmin Hu, Cheng Chen^, Weitian Chen, Minyi Guo, Bingsheng He, **Shixuan Sun^**. "FastTGM: Efficient Seed-Rooted Temporal Motif Counting with Compressed States." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2027.
+
+* Liukun Yu#, Xinwei Qiang# **Shixuan Sun^**, Chen Chen, Jingwen Leng^, Jin Dong. "Impeller: Scalable and Efficient Zero-Knowledge Proof Computation Framework via Graph Compilation." ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2027.
+
+* Hongyu Chen, Letian Ruan, Zilin Xu, Yuchen Li, Xinyu Chen, Jingwen Leng, Bingsheng He, Jieru Zhao, **Shixuan Sun^**, Minyi Guo. "InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models." ACM SIGOPS Annual Technical Conference (**ATC**). 2026.
+
+* Xinwei Qiang#, Liukun Yu#, Xiyu Wang, Zhengyi Li, **Shixuan Sun^**, Jingwen Leng, Chen Chen, Jiaping Gui, Zhenzhe Zheng, Jin Dong^, Minyi Guo. "FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration." The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2026.
 
 * Xinwei Qiang, Yifan Hu, **Shixuan Sun^**, Jing Yang, Han Zhao, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. "GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving." arXiv preprint arXiv:2606.13501. 2026.
-
-* Hongyu Chen, Letian Ruan, Zilin Xu, Yuchen Li, Xinyu Chen, Jingwen Leng, Bingsheng He, Jieru Zhao, **Shixuan Sun^**, Minyi Guo. "InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models." arXiv preprint arXiv:2604.07173. 2026.
 
 * Weitian Chen, **Shixuan Sun^**, Cheng Chen, Yongmin Hu, Yingqian Hu, Minyi Guo. "gMatch: Fine-Grained and Hardware-Efficient Subgraph Matching on GPUs." International Conference on Very Large Data Bases (**VLDB**). 2026.
 

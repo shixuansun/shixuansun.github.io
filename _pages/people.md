@@ -7,31 +7,37 @@ author_profile: true
 I am very fortunate to work with the talented and dedicated students.
 
 ---
-## Current Students
+## Students
 
-* Sen Gao, PhD student, from Beijing Institute of Technology, since 2023. Research direction: High-performance graph database systems. Co-supervised by Prof. Bingsheng He.
+* Sen Gao, PhD student, from Beijing Institute of Technology, since 2023. Co-supervised by Prof. Bingsheng He.
 
-* Weitian Chen, PhD student, from Nanjing University, since 2024. Research direction: agentic infrastructure on emerging hardware.
+* Weitian Chen, PhD student, from Nanjing University, since 2024.
 
-* Hongyu Chen, PhD student, from National University of Defense Technology, since 2024. Research direction: large-scale LLM training and serving systems.
+* Hongyu Chen, PhD student, from National University of Defense Technology, since 2024.
 
-* Xiyu Wang, master's student, from Nanjing University, since 2024. Research direction: KV cache management.
+* Xiyu Wang, master's student, from Nanjing University, since 2024.
 
-* Shengzhou Lv, PhD student, from Central South University, since 2025. Research direction: AI-empowered data analytics and processing. Co-supervised by Prof. Minyi Guo.
+* Shengzhou Lv, PhD student, from Central South University, since 2025.
 
-* Huanqi Hu, master's student, from Harbin Institute of Technology, since 2025. Research direction: high-performance GPU kernel design for LLM inference.
+* Huanqi Hu, master's student, from Harbin Institute of Technology, since 2025.
 
-* Yifan Hu, master's student (Huawei Class), from Beijing Jiaotong University, since 2025. Research direction: diffusion model serving acceleration.
+* Yifan Hu, master's student (Huawei Class), from Beijing Jiaotong University, since 2025.
 
-* Yiyu Luo, PhD student, from Shanghai Jiao Tong University, since 2026. Research direction: agentic infrastructure on emerging hardware.
+* Yiyu Luo, PhD student, from Shanghai Jiao Tong University, since 2026.
 
-* Liukun Yu, PhD student, from Shanghai Jiao Tong University, since 2026. Research direction: privacy computing. Co-supervised by Prof. Jingwen Leng.
+* Liukun Yu, PhD student, from Shanghai Jiao Tong University, since 2026. Co-supervised by Prof. Jingwen Leng.
 
-* Yikang Ruan, master's student, from Shanghai Jiao Tong University, since 2026. Research direction: high-performance GPU kernel design for LLM inference.
+* Yikang Ruan, master's student, from Shanghai Jiao Tong University, since 2026.
 
-* Yongan Li, research assistant, from IEEE Class, since 2026.
+* Yongsen Cheng, PhD student, from Shanghai Jiao Tong University, since 2027.
 
-* Shi Zhuo, research assistant, from John Class, since 2026.
+* Yuhai Long, PhD Student, from Sun Yat-sen University, since 2027.
+
+* Haopeng Wang, master's student, from Shanghai Jiao Tong University, since 2027.
+
+* Yongan Li, research assistant, from IEEE Class, Shanghai Jiao Tong University.
+
+* Shi Zhuo, research assistant, from John Class, Shanghai Jiao Tong University.
 
 ## Alumni
 
