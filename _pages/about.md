@@ -21,7 +21,7 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
-* 2026.9: *Plectra: Scheduling Parallelism for Diffusion Transformer* was accepted to **PPOPP 2027**. In this paper, we design an scheduling programmable engine for DiT online serving. Congratulations to Mr. Xinwei Qiang and Mr. Yifan Hu!
+* 2026.10: *Plectra: Scheduling Parallelism for Diffusion Transformer* was accepted to **PPOPP 2027**. In this paper, we design an scheduling programmable engine for DiT online serving. Congratulations to Mr. Xinwei Qiang and Mr. Yifan Hu!
   
 * 2026.10: I am very honored to be selected as **ACM SIGMOD China Rising Star Award**!
 
@@ -34,8 +34,6 @@ News
 * 2026.7: *FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration* was accepted to **SC 2026**. This is our first work on efficient privacy-preserving computing. Congratulations to Mr. Xinwei Qiang, Mr. Liukun Yu and Ms. Qianyu Wang!
 
 * 2026.6: Congratulations to Mr. Xinwei Qiang on receiving the **Outstanding Bachelor’s Thesis Award of Shanghai Jiao Tong University**, selected from more than 4,000 undergraduate students! Congratulations to Mr. Yikang Ruan on receiving the **Outstanding Bachelor’s Thesis Award of the School of Computer Science**, awarded to the top 3% of undergraduate students!
-
-* 2026.6: *GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving* was released on **arXiv**. An asynchronous execution runtime for DiT serving with support for dynamic parallelism, developed by Mr. Xinwei Qiang and Mr. Yifan Hu.
 
 
 Open Positions
