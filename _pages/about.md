@@ -21,7 +21,9 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
-* I am very honored to be selected as **ACM SIGMOD China Rising Star Award**!
+* 2026.9: *Plectra: Scheduling Parallelism for Diffusion Transformer* was accepted to **PPOPP 2027**. In this paper, we design an scheduling programmable engine for DiT online serving. Congratulations to Mr. Xinwei Qiang and Mr. Yifan Hu!
+  
+* 2026.10: I am very honored to be selected as **ACM SIGMOD China Rising Star Award**!
 
 * 2026.9: *FastTGM: Efficient Seed-Rooted Temporal Motif Counting with Compressed States* was accepted to **SIGMOD 2027**. In this paper, we develop an efficient pattern-matching system for fraud detection. Congratulations to Mr. Sen Gao and Mr. Weitian Chen! Thanks to our collaborator from ByteDance.
 
