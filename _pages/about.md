@@ -21,6 +21,8 @@ Email: [sunshixuan] AT [sjtu] DOT [edu] DOT [cn]
 News
 ======
 
+* 2026.11: *LiquidCP: Decoupling Attention Tasks from Communication and Kernel Boundaries in Context Parallelism* was released to **arxiv**. In this paper, we design an efficient megakernel for context-parallel training and inference.
+
 * 2026.10: *Plectra: Scheduling Parallelism for Diffusion Transformer* was accepted to **PPOPP 2027**. In this paper, we design an scheduling programmable engine for DiT online serving. Congratulations to Mr. Xinwei Qiang and Mr. Yifan Hu!
   
 * 2026.10: I am very honored to be selected as **ACM SIGMOD China Rising Star Award**!
