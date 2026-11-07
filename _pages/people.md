@@ -9,31 +9,41 @@ I am very fortunate to work with the talented and dedicated students.
 ---
 ## Students
 
+### PhD Students
+
 * Sen Gao, PhD student, from Beijing Institute of Technology, since 2023. Co-supervised by Prof. Bingsheng He.
 
 * Weitian Chen, PhD student, from Nanjing University, since 2024.
 
 * Hongyu Chen, PhD student, from National University of Defense Technology, since 2024.
 
-* Xiyu Wang, master's student, from Nanjing University, since 2024.
-
-* Shengzhou Lv, PhD student, from Central South University, since 2025. Co-supervised by Prof. Minyi Guo.
-
-* Huanqi Hu, master's student, from Harbin Institute of Technology, since 2025.
-
-* Yifan Hu, master's student (Huawei Class), from Beijing Jiaotong University, since 2025.
+* Shengzhou Lv, PhD student, Central South University, since 2025. Co-supervised by Prof. Minyi Guo.
 
 * Yiyu Luo, PhD student, from Shanghai Jiao Tong University, since 2026.
 
 * Liukun Yu, PhD student, from Shanghai Jiao Tong University, since 2026. Co-supervised by Prof. Jingwen Leng.
 
-* Yikang Ruan, master's student, from Shanghai Jiao Tong University, since 2026.
-
 * Yongsen Cheng, PhD student, from Shanghai Jiao Tong University, since 2027.
 
 * Yuhai Long, PhD Student, from Sun Yat-sen University, since 2027.
 
+### Master Students
+
+* Xiyu Wang, master's student, from Nanjing University, since 2024.
+
+* Huanqi Hu, master's student, Harbin Institute of Technology, since 2025.
+
+* Yifan Hu, master's student (Huawei Program), from Beijing Jiaotong University, since 2025.
+
+* Yikang Ruan, master's student, from Shanghai Jiao Tong University, since 2026.
+
+* Guangyi Ge, master's student (Blockchain Program), from Jinan University, since 2026.
+
 * Haopeng Wang, master's student, from Shanghai Jiao Tong University, since 2027.
+
+* Chongyun Bi, master's student, from Shanghai Jiao Tong University, since 2027.
+
+### Research Assistant
 
 * Yongan Li, research assistant, from IEEE Class, Shanghai Jiao Tong University.
 
